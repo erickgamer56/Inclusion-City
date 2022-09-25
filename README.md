@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://i.ibb.co/P93qmMG/Untitled-1.png" width="350" title="Inclusion-City">
+</p>
 # Inclusion-City
 
 ### HISTÓRIA DO JOGO:
