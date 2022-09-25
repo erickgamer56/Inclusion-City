@@ -52,7 +52,14 @@ a inclusão como fator critico de sucesso da vida em
 sociedade...  <a href="arquivos/212B5EFA-78B7-49D2-B5C8-F7C5AB20463D.pdf" download="Documentação">Ler Mais</a>
 
 </p>
-<h3>COMPONENTES:</h3>
 <h3>COMO JOGAR:</h3>
+<p>
+O objetivo do jogo é reunir o máximo de Joias do Conhecimento
+distribuídas no mapa e chegar ao final da jornada antes da equipe
+adversária e assim se tornar membros da Cúpula do Poder.<br><br>
+Para a equipe se tornar membro da Cúpula do Poder é necessário
+que os três membros do grupo resolvam seus desafios e cheguem
+ao final da jornada.
+</p>
 
 
