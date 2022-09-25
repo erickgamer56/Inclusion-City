@@ -273,6 +273,7 @@ main{
     align-items: center;
     display: flex;
     flex-direction: column;
+    gap: 40px;
 }
 .imgsd{
     max-width: 100%;
