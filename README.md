@@ -40,6 +40,18 @@ ensino ativo e dinâmico
 06 - Capacidade Analítica e Toma da Decisão
 </p>
 <h3>APRESENTAÇÃO:</h3>
+<p>
+O InclusionCity é um jogo de tabuleiro para seis
+jogadores (a partir de 14 anos) que concilia estratégia,
+sorte, trabalho em equipe e conhecimento gerais.
+Os jogadores são incentivados a conhecerem diversos
+tipos de conteúdos (conhecimentos gerais, atualidade,
+habilidades socioemocionais, etc.), a trabalharem em
+equipe, tomarem decisões com base em dados e a tratar
+a inclusão como fator critico de sucesso da vida em
+sociedade...  <a href="arquivos/212B5EFA-78B7-49D2-B5C8-F7C5AB20463D.pdf" download="Documentação">Ler Mais</a>
+
+</p>
 <h3>COMPONENTES:</h3>
 <h3>COMO JOGAR:</h3>
 
