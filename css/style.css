@@ -268,8 +268,17 @@ main{
 .h{
     color: greenyellow;
 }
+.flex{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+.imgsd{
+    max-width: 100%;
+}
 .f{
-    color: rgb(255, 176, 176);
+    color: rgb(245, 82, 82);
 }
 .expli{
     display: flex;
@@ -431,4 +440,45 @@ footer .boot{
     align-items: center;
     margin-top: 20px;
     gap: 10px;
+}
+.docu{
+    width: 130px;
+    height: 45px;
+    border: 1px solid #A17F3C;
+    background-color: transparent;
+    color: white;
+    cursor: pointer;
+}
+.team{
+    flex-direction: column;
+    gap: 20px;
+}
+.equipe_box{
+    min-width: 230px;
+    max-width: 460px;
+    height: 312px;
+    flex: 1;
+    background-color: #202231;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    gap: 10px;
+}
+.equipe_box h1{
+    color: white;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.flex_e{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+.img_e{
+    width: 160px;
+    height: 160px;
+    max-width: 100%;
+    border-radius: 50%;
 }
