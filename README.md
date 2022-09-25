@@ -5,7 +5,7 @@
 
 <h1>INCLUSION-CITY:</h1>
 
-<h3>HISTÓRIA DO JOGO</h3>
+<h3>HISTÓRIA DO JOGO:</h3>
 <p>
 O jogo foi desenvolvido por um grupo de alunos da
 Escola Técnica Estadual Clovis Nogueira Alves, orientado
@@ -15,6 +15,19 @@ ambiente de colaboração e integração nas Escolas
 Técnicas Estaduais - ETE - do Estado de Pernambuco
 </p>
 <h3>PROPOSTA DO GAME:</h3>
+<p>
+> Otimizar o processo de aprendizagem de alunos do
+fundamental II, Ensino Médio e Ensino Médio Técnico
+através da ludicidade e gamificação;
+> Ser uma ferramenta de apoio as práticas metodologicas do
+professor para promoção de aulas mais interativas,
+dinâmicas e intuitivas;
+> Estimular o desenvolvimento de Soft Skills e Hard Skills por
+meio da busca efetiva de conteúdos complementares a
+grade curricular do curso;
+> Incentivar o uso da interdisciplinaridade no processo de
+ensino ativo e dinâmico
+</p>
 <h3>HABILIDADES A SEREM DESENVOLVIDAS:</h3>
 <h3>APRESENTAÇÃO:</h3>
 <h3>COMPONENTES:</h3>
