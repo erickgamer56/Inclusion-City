@@ -32,11 +32,11 @@ ensino ativo e dinâmico
 </p>
 <h3>HABILIDADES A SEREM DESENVOLVIDAS:</h3>
 <p>
-01 - Empatia e Alteridade
-02 - Trabalho em Equipe
-04 - Inclusão e Diversidade
-05 - Inteligência Emocional
-03 - Argumentação e Oratória
+01 - Empatia e Alteridade<br>
+02 - Trabalho em Equipe<br>
+04 - Inclusão e Diversidade<br>
+05 - Inteligência Emocional<br>
+03 - Argumentação e Oratória<br>
 06 - Capacidade Analítica e Toma da Decisão
 </p>
 <h3>APRESENTAÇÃO:</h3>
