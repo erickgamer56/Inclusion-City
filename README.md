@@ -3,8 +3,7 @@
 </p>
 <hr>
 
-<h1>Inclusion-City</h1>
-
+<h1>INCLUSION-CITY</h1>
 ### HISTÓRIA DO JOGO:
 
 ### PROPOSTA DO GAME:
