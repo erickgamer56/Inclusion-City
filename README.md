@@ -18,13 +18,13 @@ Técnicas Estaduais - ETE - do Estado de Pernambuco
 <p>
 > Otimizar o processo de aprendizagem de alunos do
 fundamental II, Ensino Médio e Ensino Médio Técnico
-através da ludicidade e gamificação;
+através da ludicidade e gamificação;<br>
 > Ser uma ferramenta de apoio as práticas metodologicas do
 professor para promoção de aulas mais interativas,
-dinâmicas e intuitivas;
+dinâmicas e intuitivas;<br>
 > Estimular o desenvolvimento de Soft Skills e Hard Skills por
 meio da busca efetiva de conteúdos complementares a
-grade curricular do curso;
+grade curricular do curso;<br>
 > Incentivar o uso da interdisciplinaridade no processo de
 ensino ativo e dinâmico
 </p>
