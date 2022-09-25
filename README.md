@@ -1,15 +1,15 @@
 # Inclusion-City
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-##HISTÓRIA DO JOGO:
+## HISTÓRIA DO JOGO:
 
-##PROPOSTA DO GAME:
+## PROPOSTA DO GAME:
 
-##HABILIDADES A SEREM DESENVOLVIDAS:
+## HABILIDADES A SEREM DESENVOLVIDAS:
 
-##APRESENTAÇÃO:
+## APRESENTAÇÃO:
 
-##COMPONENTES:
+## COMPONENTES:
 
-##COMO JOGAR:
+## COMO JOGAR:
 
-##Regras:
+
