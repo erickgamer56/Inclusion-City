@@ -2,7 +2,8 @@
   <img src="https://i.ibb.co/F55XKXk/Untitled-1.png" width="350" title="Inclusion-City">
 </p>
 <hr>
-# Inclusion-City
+
+<h1>Inclusion-City</h1>
 
 ### HISTÓRIA DO JOGO:
 
