@@ -5,7 +5,7 @@
 
 <h1>INCLUSION-CITY:</h1>
 
- <a href="arquivos/212B5EFA-78B7-49D2-B5C8-F7C5AB20463D.pdf" download="Documentação"><input class="docu" type="button" value="Ler Mais"></a>
+ <a href="arquivos/212B5EFA-78B7-49D2-B5C8-F7C5AB20463D.pdf" download="Documentação">Baixar Documentação</a>
 
 <h3>HISTÓRIA DO JOGO:</h3>
 <p>
